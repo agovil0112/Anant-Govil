@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+}
+
+p{
+  font-size: 25px;
+  }
+
+/*******TOP CONTAINER*******/
+.top-container{
+  background-image: linear-gradient( #caeaf9,#ffffff);
+  margin-top: 0;
+  height:1300px;
+  position:relative;
+  line-height: 5px;
+}
+.Heading{
+  margin-top: 0;
+  padding-top: 200px;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+}
+.mountains{
+    position:absolute;
+    bottom:0;
+    right:0;
+  }
+
+.Profile{
+  padding-top: 20px;
+  font-size: 40px;
+}
+.profile-picture{
+  position:relative;
+  padding-top:80px;
+  width: 200px;
+  height: 200px;
+}
+
+/******** MIDDLE CONTAINER**********/
+.middle-container{
+  background-color: #30e3ca;
+  margin-top: 0;
+  width: 100%;
+  height:auto;
+}
+.what-can-i-do{
+  font-size: 30px;
+  padding-top: 50px;
+}
+.develop{
+  line-height: 5px;
+  text-align:right;
+  position: relative;
+  padding-right: 200px;
+}
+.develop-img{
+  position:relative;
+  right: 800px;
+  width: 200px;
+  height: 200px;
+
+}
+.design{
+  line-height: 5px;
+  text-align:left;
+  position: relative;
+  padding-left:200px;
+  padding-bottom: 100px;
+
+}
+.design-img{
+  position:relative;
+  left: 800px;
+  width: 200px;
+  height: 200px;
+
+}
+/***** BOTTOM-CONTAINER******/
+
+.bottom-container{
+  background-color: #11999e;
+  width: 100%;
+  height:auto;
+}
+.i-can-help{
+  font-size: 30px;
+  padding-top: 50px;
+
+}
+
+.get-in-touch{
+  line-height: 5px;
+  text-align:center;
+
+}
+
+
+
+
+
+/*********FOOTER*************/
+.footer{
+  background-color: #40514e;
+  margin-bottom: 0;
+  width: 100%;
+  height: auto;
+  padding-top: 50px;
+  padding-bottom: 5px
+}
